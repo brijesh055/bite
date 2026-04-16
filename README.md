@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NepalBite — React + Firebase 🇳🇵
 
 Nepal's Food-Tech Platform built with React 18 + Firebase 10.
@@ -65,3 +66,6 @@ Open `src/data/menu.js` — edit the MENU array.
 - Firebase 10 (Auth + Firestore + Storage)
 - Pure CSS with variables (no Tailwind)
 - Playfair Display + DM Sans fonts
+=======
+# bite
+>>>>>>> b1bbbd88df2ac73fa5bdd7841904e2933c949f06
